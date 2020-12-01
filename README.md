@@ -1,7 +1,6 @@
 # triple-q
 
-Adds a `???` operator.
-
+Adds a `???` operator. Useful for reusing the scope of an existing  `if let .. { .. }`.
 
 ## usage
 ```swift
